@@ -1,0 +1,156 @@
+* {
+    background-color: burlywood;
+}
+.main {
+    padding-right: 15px;
+    padding-left: 15px;
+    color: brown;
+    font-size: 25px;
+    font-weight: bold;
+    background-color: burlywood;
+}
+.icon {
+    align-items: center;
+    justify-content: space-between;
+    display: flex;
+}
+li {
+    display: inline-block;
+    margin-right: 25px;
+}
+li a{
+    font-size: 20px;
+    font-weight: 100px;
+    margin: 40px;
+    color: brown;
+}
+*{
+    text-decoration: none;
+}
+.icon button {
+    margin-left: 15px;
+    border-radius: 20px;
+    color: white;
+    background-color: brown;
+    width: 100px;
+    height: 40px;
+    border: none;
+    
+}
+.img {
+    opacity: 90%;
+}
+.store {
+    font-size: 20px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: lighter;
+}
+.mene {
+    text-align: center;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: lighter;
+}
+#explre {
+    text-align: center;
+}
+/* for images*/
+.small {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.small img {
+    width: 400px;
+    height: 300px;
+    border: 2px solid;
+    margin: 10px;
+}
+/*For location*/
+.fiv {
+    text-align: center;
+    font-size: 30px;
+}
+#para {
+    width: 100%;
+}
+#hey {
+    font-size: 20px;
+    font-weight: lighter;
+}
+.music{
+    text-align: center;
+}
+footer {
+    box-sizing: border-box;
+    color: white;
+    
+}
+.footercontainer {
+    width: 100%;
+    padding: 70px,30px,20px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.socialicons {
+    justify-content: center;
+
+}
+.socialicons a{
+    align-items: center;
+    margin: 30px;
+    font-size: 25px;
+    color: white;
+    
+}
+
+#bottom {
+     text-align: center;
+     font-size: 15px;
+     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+     font-weight: lighter;
+}
+.footer li {
+    align-items: center;
+    margin: 10px;
+    padding: 30px;
+}
+.footer a {
+    color: white;
+}
+.designer {
+    opacity: 0.7;
+    text-transform: uppercase;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
